@@ -114,10 +114,11 @@ main{
 
 .artists-grid, .albuns-grid {
     display: grid;
-    grid-template-columns: repeat(autofill, minmax(180px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     gap: 24px;
     margin-bottom: 40px;
 }
+
 
 .artist-card, .albun-card {
     background-color: #181818;
@@ -164,4 +165,21 @@ main{
     justify-content: space-between;
     align-items: center;
     padding: 8px 14px;
+}
+
+.banner h2{
+    font-size: 14px;
+}
+
+.banner p{
+    font-size: 10px;
+}
+
+.banner button{
+    border-radius: 20px;
+    color: #000;
+    border: none;
+    padding: 12px 20px;
+    font-weight: 600;
+    cursor: pointer;
 }

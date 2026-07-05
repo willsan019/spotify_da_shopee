@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const artistsdata = [
     {name: 'luisa sonsa', image: 'img/album-escandalo.jpg'},
-    {name: 'bilie elish', image: 'img/album-hit-me.jpg'},
+    {name: 'billie elish', image: 'img/album-hit-me.jpg'},
     {name: 'vida loka', image: 'img/album-vida-loka.jpg'},
     {name: 'white noise', image: 'img/album-white-noise.jpg'},
     {name: 'jorge e matheus', image: 'img/artista-jorge-mateus.jpg'},
@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 const albunsdata = [
     {name: 'luisa sonsa', image: 'img/album-escandalo.jpg'},
-    {name: 'bilie elish', image: 'img/album-hit-me.jpg'},
+    {name: 'billie elish', image: 'img/album-hit-me.jpg'},
     {name: 'vida loka', image: 'img/album-vida-loka.jpg'},
     {name: 'white noise', image: 'img/album-white-noise.jpg'},
     {name: 'jorge e matheus', image: 'img/artista-jorge-mateus.jpg'},
